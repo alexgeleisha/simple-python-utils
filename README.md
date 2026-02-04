@@ -1,2 +1,3 @@
-# simple-python-utils
-Simple Python utility functions for beginners
+# Simple Python Utils
+
+This repository contains simple Python utility functions.
